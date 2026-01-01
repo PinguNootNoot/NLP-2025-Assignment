@@ -1,3 +1,3 @@
-# Abstract
+# About
 
-Source codes and reports of assignments from 2025 NLP course, NTHU
+Source codes and reports of assignments from 2025 NLP course, NTHU.
